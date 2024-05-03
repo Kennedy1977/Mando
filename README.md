@@ -1,16 +1,17 @@
 
 # Mando Front-end Technical Assessment Solution
 
-This repository contains the completed solution for the Mando Front-end Technical Assessment. This project showcases a web application that dynamically displays cards representing online courses for students, incorporating responsive design, interactivity, and accessibility features.
+This repository contains the completed solution for the Mando Front-end Technical Assessment. This project showcases a web application that dynamically displays cards representing online courses for students, incorporating responsive design, interactivity, and accessibility features. You can view the finished project here: [Mando Project Live Demo](https://andrewkennedydev.com/mando/)
 
 ## Technologies Used
 
 - **HTML5** - For structuring the content.
 - **CSS3** - For styling. We use CSS Grid and Flexbox to achieve responsive layouts across desktop, tablet, and mobile devices.
 - **JavaScript (ES6+)** - For dynamic client-side scripting.
-- **React** - Used as the front-end library for building the user interface (assumed based on the common use in such projects; replace with actual technology used if different).
+- **React** - Used as the front-end library for building the user interface.
 - **SVG Icons** - To represent the course categories visually.
 - **Yarn & NPM** - For managing project dependencies.
+- **Custom Development Toolkit** - Developed a minimal custom build environment rather than relying on third-party tools like Vite, Webpack, or Parcel to demonstrate capability in creating lean, efficient setups.
 
 ## Running the Project
 
