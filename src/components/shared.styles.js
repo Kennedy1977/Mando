@@ -19,4 +19,9 @@ export const Button = styled("button")`
   &:hover {
     background-color: white;
   }
+  @media (max-width: 576px) {
+    font-size: var(--smallSize);
+    gap: 8px;
+    padding: 0 10px;
+  }
 `;
