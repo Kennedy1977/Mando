@@ -26,7 +26,7 @@ export const IconContainer = styled("div")`
   min-height: 70px;
   padding: 30px 0;
   color: ${(props) => props.categoryColor};
-  & svg {
+  & > svg {
     width: 100%;
     height: 100%;
   }
