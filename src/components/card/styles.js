@@ -23,6 +23,7 @@ export const Container = styled("div")`
 export const IconContainer = styled("div")`
   display: flex;
   width: 70px;
+  min-height: 70px;
   padding: 30px 0;
 
   color: ${(props) => props.categoryColor};

@@ -14,7 +14,7 @@ export const Container = styled("nav")`
   }
 
   @media (max-width: 576px) {
-    gap: 12px;
+    gap: 8px;
     padding: 0;
   }
 `;
