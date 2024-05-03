@@ -25,8 +25,11 @@ export const IconContainer = styled("div")`
   width: 70px;
   min-height: 70px;
   padding: 30px 0;
-
   color: ${(props) => props.categoryColor};
+  & svg {
+    min-width: 70px;
+    min-height: 70px;
+  }
 `;
 
 export const ProgressStatus = styled("div")`
