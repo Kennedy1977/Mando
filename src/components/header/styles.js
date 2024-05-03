@@ -13,6 +13,7 @@ export const AvatarContainer = styled("div")`
   width: 100%;
   height: auto;
   max-width: 135px;
+  align-self: baseline;
   color: black;
 `;
 export const Name = styled("h1")`
