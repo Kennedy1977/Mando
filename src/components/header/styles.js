@@ -36,7 +36,6 @@ export const ModuleProgress = styled("h4")`
 
 export const ProgressContainer = styled("div")`
   display: flex;
-  width: clamp(300px, 100%, 870px);
   height: 40px;
   border-radius: 20px;
   background-color: white;
